@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-victor-can%C3%A1rio-51073a290?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/canarioecb?igsh=MWt1OXI2cWZpZHNqdQ%3D%3D&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/canariort?igsh=MWt1OXI2cWZpZHNqdQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
